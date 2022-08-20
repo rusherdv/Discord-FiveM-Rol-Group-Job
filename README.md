@@ -36,8 +36,8 @@ For buying join to the <a href="https://discord.gg/bJrVfxRBmj">Discord<a>
 | Main Manager |
 
 <hr>
-Image of the Config.lua:
-<hr>
+  <h4>Image of the Config.lua:</h4>
+
 <img src="https://i.imgur.com/b70AnUC.png">
 
 <hr>
