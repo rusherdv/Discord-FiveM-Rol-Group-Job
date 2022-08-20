@@ -42,7 +42,7 @@ Image of the Config.lua:
 
 <hr>
 
-https://streamable.com/cd18c4
+[![Watch the video](https://streamable.com/cd18c4)
 
 <hr>
 
