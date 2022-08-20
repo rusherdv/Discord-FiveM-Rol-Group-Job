@@ -38,16 +38,16 @@ For buying join to the <a href="https://discord.gg/bJrVfxRBmj">Discord<a>
 <hr>
 Image of the Config.lua:
 
-<img src="https://user-images.githubusercontent.com/105472000/171086253-7f9c33e6-3c94-410b-849a-34967b7244bf.png">
+<img src="https://i.imgur.com/b70AnUC.png">
 
 <hr>
 
-
+https://streamable.com/cd18c4
 
 <hr>
 
 <h4>Resource Monitor: </h4>
-<img src="https://user-images.githubusercontent.com/105472000/171087424-8e69746e-1360-4bbd-9ecd-00561361f9f1.png">
+<img src="https://i.imgur.com/UzrOKeP.png">
 
 Compatible with ESX 1.0 Final and LEGACY
 
