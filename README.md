@@ -42,7 +42,7 @@ Image of the Config.lua:
 
 <hr>
 
-[![Watch the video](https://streamable.com/cd18c4)]
+[Video of the script](https://streamable.com/cd18c4)
 
 <hr>
 
