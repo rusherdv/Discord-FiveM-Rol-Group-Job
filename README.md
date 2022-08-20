@@ -1,8 +1,6 @@
 # Discord-FiveM-Rol-Group-Job
 Discord Fivem Rol Group-Job
 
-THIS IS A DEMO
-
 PRICE $30USD
 
 The groups and jobs that are defined are be able to expand easy. With this script you need't use The script uses the API from the script: Discordroles.
