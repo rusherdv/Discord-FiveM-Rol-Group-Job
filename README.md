@@ -5,11 +5,9 @@ THIS IS A DEMO
 
 PRICE $30USD
 
-The groups and jobs that are defined are be able to expand so easy
+The groups and jobs that are defined are be able to expand easy. With this script you need't use The script uses the API from the script: Discordroles.
 
-The script uses the API from the script: Discordroles
-
-For buying contact me on Discord ---> rusher#3981
+For buying join to the <a href="https://discord.gg/bJrVfxRBmj">Discord<a>
 
 <hr>
 
@@ -21,6 +19,14 @@ For buying contact me on Discord ---> rusher#3981
 | Ambulance |
 | Mechanic |
 
+| AVAILABLE MAFIAS: |
+|--------------------------|
+| 20 |
+
+| AVAILABLE BANDS: |
+|--------------------------|
+| 5 |
+
 | Groups |
 |--------------------------|
 | Helper |
@@ -30,27 +36,20 @@ For buying contact me on Discord ---> rusher#3981
 | Main Manager |
 
 <hr>
-
-| AVAIBLE MAFIAS: |
-|--------------------------|
-| 20 |
-
-| AVAIBLE BANDAS: |
-|--------------------------|
-| 5 |
-
-<hr>
+Image of the Config.lua:
 
 <img src="https://user-images.githubusercontent.com/105472000/171086253-7f9c33e6-3c94-410b-849a-34967b7244bf.png">
 
 <hr>
 
-https://user-images.githubusercontent.com/105472000/171087344-ac4597a4-78be-452e-8816-daf254d45f60.mp4
+
 
 <hr>
 
 <h4>Resource Monitor: </h4>
 <img src="https://user-images.githubusercontent.com/105472000/171087424-8e69746e-1360-4bbd-9ecd-00561361f9f1.png">
+
+Compatible with ESX 1.0 Final and LEGACY
 
 | DEPENDENCIES: |
 |--------------------------|
