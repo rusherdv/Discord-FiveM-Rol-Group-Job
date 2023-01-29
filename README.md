@@ -5,7 +5,7 @@ PRICE $30USD
 
 The groups and jobs that are defined are be able to expand easy. With this script you need't use The script uses the API from the script: Discordroles.
 
-For buying join to the <a href="https://discord.gg/bJrVfxRBmj">Discord<a>
+For buying contact me on Discord: rusher#3981
 
 <hr>
 
